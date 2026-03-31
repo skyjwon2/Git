@@ -1,0 +1,15 @@
+/Users/cheonjaewon/Desktop/코딩/Git/bin/Debug/net10.0/Git
+/Users/cheonjaewon/Desktop/코딩/Git/bin/Debug/net10.0/Git.deps.json
+/Users/cheonjaewon/Desktop/코딩/Git/bin/Debug/net10.0/Git.runtimeconfig.json
+/Users/cheonjaewon/Desktop/코딩/Git/bin/Debug/net10.0/Git.dll
+/Users/cheonjaewon/Desktop/코딩/Git/bin/Debug/net10.0/Git.pdb
+/Users/cheonjaewon/Desktop/코딩/Git/obj/Debug/net10.0/Git.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cheonjaewon/Desktop/코딩/Git/obj/Debug/net10.0/Git.AssemblyInfoInputs.cache
+/Users/cheonjaewon/Desktop/코딩/Git/obj/Debug/net10.0/Git.AssemblyInfo.cs
+/Users/cheonjaewon/Desktop/코딩/Git/obj/Debug/net10.0/Git.csproj.CoreCompileInputs.cache
+/Users/cheonjaewon/Desktop/코딩/Git/obj/Debug/net10.0/Git.sourcelink.json
+/Users/cheonjaewon/Desktop/코딩/Git/obj/Debug/net10.0/Git.dll
+/Users/cheonjaewon/Desktop/코딩/Git/obj/Debug/net10.0/refint/Git.dll
+/Users/cheonjaewon/Desktop/코딩/Git/obj/Debug/net10.0/Git.pdb
+/Users/cheonjaewon/Desktop/코딩/Git/obj/Debug/net10.0/Git.genruntimeconfig.cache
+/Users/cheonjaewon/Desktop/코딩/Git/obj/Debug/net10.0/ref/Git.dll

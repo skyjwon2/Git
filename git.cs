@@ -21,6 +21,11 @@ namespace NewNoteAntiTodo.Infrastructure
             return Console.ReadLine() ?? string.Empty;
         }
 
+        public void Hello()
+        {
+        
+        }
+        
         public void Clear()
         {
             Console.Clear();

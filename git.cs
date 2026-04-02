@@ -21,6 +21,10 @@ namespace NewNoteAntiTodo.Infrastructure
             return Console.ReadLine() ?? string.Empty;
         }
         
+        public void MergeTest()
+        {
+            
+        }
         public void Clear()
         {
             Console.Clear();

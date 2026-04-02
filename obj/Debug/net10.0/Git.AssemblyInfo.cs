@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Git")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c1201adea0c955c0f2429cfe44f1f47e8f7f822")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1c985d770d5efe393f1c7f2ed2ab275437183cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Git")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Git")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
